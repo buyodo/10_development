@@ -13,3 +13,6 @@ https://app.diagrams.net/
 
 ##PWA
 https://developer.mozilla.org/ja/docs/Web/Progressive_web_apps
+
+## MySQL8.0のGIS機能
+https://dev.mysql.com/doc/refman/8.0/ja/using-spatial-indexes.html
