@@ -1,6 +1,24 @@
 # 10_development
 開発環境
 
+# PMPに関するまとめ
+
+PMI資格について<br>
+https://www.pmi-japan.org/pmp_license/
+
+アジャイル　プロジェクト管理<br>
+https://www.atlassian.com/ja/agile/project-management
+
+
+チェック<br>
+/WBS
+/サーバントリーダーシップ
+
+PMBOK
+
+受検方法
+
+
 <h2>ドキュメントを読むリスト</h2>
 <ul>
 <li>Runebook.dev　https://runebook.dev/</li>
