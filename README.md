@@ -3,6 +3,9 @@
 
 # PMPに関するまとめ
 
+PMP認定
+https://www.pmi.org/certifications/pmp-project-management-professional
+
 PMI資格について<br>
 https://www.pmi-japan.org/pmp_license/
 
